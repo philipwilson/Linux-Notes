@@ -1,4 +1,4 @@
-## Linux OS For Programmers
+## Linux For Programmers
 
 * [Overview](Overview/README.md)
     * [Historical Context](Overview/history.md)
