@@ -25,7 +25,7 @@
     * [sync(), fsync()](Files/file-system-calls.md)
     * [fcntl()](Files/file-system-calls.md)
     * [ioctl()](Files/file-system-calls.md)
-    * [File System Internals]()
+    * [Kernel and file system internals]()
 * [Files and Directories]()
 * [Standard IO Library]()
 * [System Data Files]()
