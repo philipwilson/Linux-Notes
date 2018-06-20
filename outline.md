@@ -3,7 +3,7 @@
 * [Overview](Overview/README.md)
     * [Historical Context](Overview/history.md)
     * [Unix Architecture](Overview/arch.md)
-    * [Setting up Linux VM on your computer]()
+    * [Setting up a Linux VM on your computer]()
     * [Logging In](Overview/login.md)
     * [Files and Directories](Overview/files-and-directories.md)
     * [Input and Output](Overview/input-output.md)
