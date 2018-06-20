@@ -37,6 +37,7 @@
     * [mkdir, rmdir, chdir](Files/file-system-calls.md)
     * [dirent and directory system calls](Files/file-system-calls.md)
     * [special files](Files/file-system-calls.md)
+    * [file access permission bits summary](Files/file-system-calls.md)
 * [Standard IO Library]()
 * [System Data Files]()
 * [Process Environment]()
