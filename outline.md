@@ -46,6 +46,7 @@
     * [memory layout, memory allocation]()
     * [shared libraries]()
 * [Kernel process table and supporting data structures]()
+    * [scheduling]()
     * [/proc interface]()
 * [Process Control]()
     * [fork(), wait(), waitpid()]()
@@ -65,6 +66,7 @@
 * [Network Programming and Sockets]()
 * [Terminal IO]()
 * [Systems Programming Examples]()
+    * [Simple Shell]()
     * [Simple HTTP Server]()
     * [Containers from scratch]()
 
