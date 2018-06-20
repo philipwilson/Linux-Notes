@@ -34,7 +34,7 @@
     * [Command line args and ENV]()
     * [memory layout, memory allocation]()
     * [shared libraries]()
-* [Kernel Process Data Structures]()
+* [Kernel process table and supporting data structures]()
 * [Process Control]()
     * [fork(), wait(), waitpid()]()
     * [exec()]()
