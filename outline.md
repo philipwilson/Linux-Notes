@@ -26,8 +26,13 @@
     * [Command line args and ENV]()
     * [memory layout, memory allocation]()
     * [shared libraries]()
+* [Kernel Process Data Structures]()
 * [Process Control]()
+    * [fork(), wait(), waitpid()]()
+    * [exec()]()
+    * [race conditions]()
 * [Process Relationships]()
+* [Control Groups]()
 * [Signals]()
 * [Threads and Thread Control]()
 * [Daemon Processes]()
@@ -39,8 +44,13 @@
     * [Semaphores]()
 * [Network Programming and Sockets]()
 * [Terminal IO]()
-* [Some Examples]()
+* [Systems Programming Examples]()
     * [Simple HTTP Server]()
     * [Containers from scratch]()
+
+
+* [Kernel Bootstrap Mechanics]()
+* [Syscall Implementation]()
+
 * [Useful links](LINKS.md)
 * [Contributors](contributors.md)
