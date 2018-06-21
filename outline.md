@@ -1,5 +1,5 @@
 ## Linux for Systems Programmers
-#  Drawing very heavily on Stevens and Rago, *Advanced Programming in the UNIX® Environment*, third edition ISBN 978-0-321-63773-4 
+###  Drawing very heavily on Stevens and Rago, *Advanced Programming in the UNIX® Environment*, Third Edition, ISBN 978-0-321-63773-4 
 
 * [Overview](Overview/README.md)
     * [Historical Context](Overview/history.md)
