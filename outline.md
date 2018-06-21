@@ -11,6 +11,8 @@
         * [Files and Directories](Overview/files-and-directories.md)
     * [Input and Output](Overview/input-output.md)
     * [Programs and Processes](Overview/programs-processes.md)
+    * [bash introduction]()
+    * [ssh/scp introduction]()
     * [Error Handling](Overview/error-handling.md)
     * [User Identification](Overview/user-identification.md)
     * [Signals](Overview/signals.md)
