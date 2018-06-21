@@ -44,7 +44,6 @@
     * [buffer cache]()
     * [read more](Files/notes.md)
     
-    
 * [Standard IO Library]()
 * [System Data Files]()
 * [Memory management]()
