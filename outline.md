@@ -1,10 +1,12 @@
-## Linux For Programmers
+## Linux for Systems Programmers
+#  Drawing very heavily on Stevens and Rago, *Advanced Programming in the UNIX® Environment*, third edition ISBN 978-0-321-63773-4 
 
 * [Overview](Overview/README.md)
     * [Historical Context](Overview/history.md)
     * [Unix Architecture](Overview/arch.md)
     * [Setting up a Linux VM on your computer]()
     * [Logging In](Overview/login.md)
+    * [Man pages]()
     * [Files and Directories](Overview/files-and-directories.md)
         * [Files and Directories](Overview/files-and-directories.md)
     * [Input and Output](Overview/input-output.md)
