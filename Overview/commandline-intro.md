@@ -24,7 +24,7 @@
    * redirecting input and output
    * editing files
    * shell scripts (and `#!` interpreter files)
-   * signals and job control, `kill`
+   * signals and job control, `kill`, signals from terminal
    * quick look at processes, `ps`, `top`
    * dealing with misbehaving processes
    * many of these "commands" are themselves programs.  where do they live?  how to learn more?
