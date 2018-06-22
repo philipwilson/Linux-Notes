@@ -18,6 +18,7 @@
    * shell wildcards and pattern matching
    * creating, copying, moving, and removing files and directories
       * `touch`, `cp`, `mv`, `ln`, `rm`, `mkdir`, `rmdir`
+   * `find`
    * redirecting input and output
    * editing files
    * shell scripts (and #! interpreter files)
@@ -27,3 +28,13 @@
    * `man` and man pages
 
    * `tar`, `gzip`, `zcat` and `bzip2`, tarballs
+
+* Working with text files
+   * pipes and redirection
+   * `head` and `tail`
+   * regex and `grep`
+   * counting with `wc`
+   * `cut`
+   * stream editing with `sed`
+   * making filters in python
+   
