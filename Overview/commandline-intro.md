@@ -34,6 +34,7 @@
    * `head` and `tail`
    * regex and `grep`
    * counting with `wc`
+   * `sort` and `uniq`
    * `cut`
    * stream editing with `sed`
    * making filters in python
