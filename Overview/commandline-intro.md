@@ -14,14 +14,15 @@
    * comments 
    * .bash_profile
    * PATH
-   * environment variables, ${name} expansion, echo
+   * environment variables, ${name} expansion, echo, env, which
    * shell wildcards and pattern matching
-   * moving, copying, removing files
-   * creating and editing files
+   * creating, copying, moving, and removing files and directories
+   * redirecting input and output
+   * editing files
    * shell scripts (and #! interpreter files)
    * signals and job control
    
    * many of these "commands" are themselves programs.  where do they live?  how to learn more?
    * man and man pages
+
    * tar, gzip, zcat and bzip2, tarballs
-* Git intro
