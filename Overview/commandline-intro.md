@@ -39,5 +39,6 @@
    * `sort` and `uniq`
    * `cut`
    * stream editing with `sed`
-   * making filters in python
+   * writing filters in `python`
+   * awareness of other scripting languages (`awk`, `perl`, ...)
    * logfiles, `tee`, `tail -f`   
