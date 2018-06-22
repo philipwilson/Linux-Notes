@@ -32,10 +32,10 @@
 * Working with text files
    * pipes and redirection
    * `head` and `tail`
-   * regex and `grep`
    * counting with `wc`
+   * regex and `grep`
    * `sort` and `uniq`
    * `cut`
    * stream editing with `sed`
    * making filters in python
-   
+   * logfiles, `tee`, `tail -f`   
