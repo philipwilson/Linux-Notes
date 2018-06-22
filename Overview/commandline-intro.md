@@ -1,18 +1,18 @@
 * Filesystem basics
-   * root directory /
-   * working directory `pwd`
+   * root directory `/`
    * listing directory contents `ls`
-   * home directory ~/
-   * changing working directory
+   * working directory `pwd`
+   * home directory `~/`
+   * change working directory `cd`
    * absolute and relative addressing
-   * ., .., and ~
-   * dot files
+   * `.`, `..`, and `~`
+   * dot files, `ls -a`
 
 * Some shell basics
    * a bit of history
    * tab completion, command line editing
-   * searching previous commands
-   * comments 
+   * shell history and searching previous commands
+   * `#` comments 
    * .bash_profile
    * PATH
    * environment variables, ${name} expansion, `echo`, `env`, `which`
@@ -23,7 +23,7 @@
    * `less` (and `more`)
    * redirecting input and output
    * editing files
-   * shell scripts (and #! interpreter files)
+   * shell scripts (and `#!` interpreter files)
    * signals and job control
    * many of these "commands" are themselves programs.  where do they live?  how to learn more?
    * `man` and man pages
