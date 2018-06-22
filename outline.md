@@ -13,6 +13,7 @@
         * [ssh/scp introduction](Overview/commandline-intro.md)
 	* [git introduction]()
     * [Input and Output (file descriptors, stdin/out/err, buffering)](Overview/input-output.md)
+    * [Some text file processing tools](Overview/commandline-intro.md)
     * [Programs and Processes](Overview/programs-processes.md)
     * [Error handling](Overview/error-handling.md)
         * [errno and python programming]()
