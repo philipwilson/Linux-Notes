@@ -15,7 +15,7 @@
    * `#` comments 
    * .bash_profile
    * PATH
-   * environment variables, ${name} expansion, `echo`, `env`, `which`
+   * environment variables, `${name}` expansion, `echo`, `env`, `which`
    * shell wildcards and pattern matching
    * creating, copying, moving, and removing files and directories
       * `touch`, `cp`, `mv`, `ln`, `rm`, `mkdir`, `rmdir`
