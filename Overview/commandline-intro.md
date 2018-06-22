@@ -17,10 +17,10 @@
    * PATH
    * environment variables, `${name}` expansion, `echo`, `env`, `which`
    * shell wildcards and pattern matching
+   * looking inside files:  `cat`, `less`, `more`
    * creating, copying, moving, and removing files and directories
       * `touch`, `cp`, `mv`, `ln`, `rm`, `mkdir`, `rmdir`
-   * `find`
-   * `less` (and `more`)
+   * `find`, `locate`
    * redirecting input and output
    * editing files
    * shell scripts (and `#!` interpreter files)
