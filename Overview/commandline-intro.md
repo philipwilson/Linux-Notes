@@ -9,10 +9,10 @@
 * Some shell basics
    * why is it called a shell?
    * why is it called bash?
-   * command line completion
+   * tab completion, command line editing
    * searching previous commands
-   * comments
-   * shell scripts (and interpreter files)
+   * comments 
+   * shell scripts (and #! interpreter files)
    * .bash_profile
    * PATH
    * environment variables, $ expansion
