@@ -24,3 +24,4 @@
    * many of these "commands" are themselves programs.  where do they live?  how to learn more?
    * man and man pages
    * tar, gzip, zcat and bzip2, tarballs
+* Git intro
