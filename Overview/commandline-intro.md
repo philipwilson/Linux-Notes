@@ -12,10 +12,15 @@
    * tab completion, command line editing
    * searching previous commands
    * comments 
-   * shell scripts (and #! interpreter files)
    * .bash_profile
    * PATH
-   * environment variables, $ expansion
+   * environment variables, ${name} expansion, echo
+   * shell wildcards and pattern matching
    * moving, copying, removing files
+   * creating and editing files
+   * shell scripts (and #! interpreter files)
+   * signals and job control
    
-   
+   * many of these "commands" are themselves programs.  where do they live?  how to learn more?
+   * man and man pages
+   * tar, gzip, zcat and bzip2, tarballs
