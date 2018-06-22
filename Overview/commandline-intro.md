@@ -28,6 +28,7 @@
    * quick look at processes, `ps`, `top`
    * dealing with misbehaving processes
    * many of these "commands" are themselves programs.  where do they live?  how to learn more?
+   * `bash` programming taster.
    * `man` and man pages
    * `tar`, `gzip`, `zcat` and `bzip2`, tarballs
 
