@@ -17,12 +17,13 @@
    * environment variables, ${name} expansion, `echo`, `env`, `which`
    * shell wildcards and pattern matching
    * creating, copying, moving, and removing files and directories
+      * `touch`, `cp`, `mv`, `ln`, `rm`, `mkdir`, `rmdir`
    * redirecting input and output
    * editing files
    * shell scripts (and #! interpreter files)
    * signals and job control
    
    * many of these "commands" are themselves programs.  where do they live?  how to learn more?
-   * man and man pages
+   * `man` and man pages
 
-   * tar, gzip, zcat and bzip2, tarballs
+   * `tar`, `gzip`, `zcat` and `bzip2`, tarballs
