@@ -7,6 +7,7 @@
    * absolute and relative addressing
    * ., .., and ~
    * dot files
+
 * Some shell basics
    * a bit of history
    * tab completion, command line editing
@@ -19,14 +20,13 @@
    * creating, copying, moving, and removing files and directories
       * `touch`, `cp`, `mv`, `ln`, `rm`, `mkdir`, `rmdir`
    * `find`
+   * `less` (and `more`)
    * redirecting input and output
    * editing files
    * shell scripts (and #! interpreter files)
    * signals and job control
-   
    * many of these "commands" are themselves programs.  where do they live?  how to learn more?
    * `man` and man pages
-
    * `tar`, `gzip`, `zcat` and `bzip2`, tarballs
 
 * Working with text files
