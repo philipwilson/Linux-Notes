@@ -1,7 +1,7 @@
 * Filesystem basics
    * root directory /
-   * working directory pwd
-   * listing directory contents ls
+   * working directory `pwd`
+   * listing directory contents `ls`
    * home directory ~/
    * changing working directory
    * absolute and relative addressing
@@ -14,7 +14,7 @@
    * comments 
    * .bash_profile
    * PATH
-   * environment variables, ${name} expansion, echo, env, which
+   * environment variables, ${name} expansion, `echo`, `env`, `which`
    * shell wildcards and pattern matching
    * creating, copying, moving, and removing files and directories
    * redirecting input and output
