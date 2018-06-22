@@ -6,7 +6,7 @@
     * [Unix Architecture](Overview/arch.md)
     * [Setting up a Linux VM on your computer]()
     * [Logging In](Overview/login.md)
-    * [Some practical matters](Overview/commandline-intro.md)
+    * [A quick look around](Overview/commandline-intro.md)
         * [Files and Directories]()
         * [shell(bash) introduction]()
         * [ssh/scp introduction]()
