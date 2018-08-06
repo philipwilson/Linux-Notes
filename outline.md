@@ -98,7 +98,7 @@
 * [Process Relationships]()
 * [Control Groups]()
 
-### Week 6
+### Week 6  Advanced I/O, Interprocess Communications
 
 * [Signals]()
 * [Threads and Thread Control]()
