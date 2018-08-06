@@ -28,7 +28,7 @@
     * [Summary](Overview/summary.md)
 
 
-### Week 2:
+### Week 2: File Operations and Directories
 
 * [Files and File I/O](Files/README.md)
     * [Introduction](Files/introduction.md)
@@ -54,7 +54,7 @@
     * [special files](Files/file-system-calls.md)
     * [file access permission bits summary](Files/file-system-calls.md)
 
-### Week 3: 
+### Week 3:  File Systems, stdio 
 
 * [Kernel and file system internals]()
     * [Block devices]()
@@ -74,7 +74,7 @@
 * [System Data Files]()
 
 
-### Week 4 & 5:  Memory and PRocesses
+### Week 4 & 5:  Memory and Processes
 
 
 * [Memory management]()
@@ -98,7 +98,7 @@
 * [Process Relationships]()
 * [Control Groups]()
 
-### Week 6, 7, and 8
+### Week 6
 
 * [Signals]()
 * [Threads and Thread Control]()
@@ -117,7 +117,7 @@
     * [Shared Memory]()
     * [Semaphores]()
 
-### Week 9 and 10  Network Programming
+### Week 7 and 8  Network Programming
 
 * [Network Programming and Sockets]()
 * [Terminal IO]()
