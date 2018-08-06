@@ -1,6 +1,9 @@
 ## Linux for Systems Programmers
 ####  Drawing heavily on Stevens and Rago, *Advanced Programming in the UNIX® Environment*, Third Edition, ISBN 978-0-321-63773-4 
 
+
+### Week 1: Getting Started
+
 * [Overview](Overview/README.md)
     * [Historical Context](Overview/history.md)
     * [Unix Architecture](Overview/arch.md)
@@ -23,6 +26,10 @@
     * [Time values (epoch calendar, time_t, clock_t)](Overview/time-values.md)
     * [System Calls and Library Functions](Overview/syscalls-library.md)
     * [Summary](Overview/summary.md)
+
+
+### Week 2:
+
 * [Files and File I/O](Files/README.md)
     * [Introduction](Files/introduction.md)
     * [File descriptors](Files/file-descriptors.md)
@@ -46,6 +53,9 @@
     * [dirent and directory system calls](Files/file-system-calls.md)
     * [special files](Files/file-system-calls.md)
     * [file access permission bits summary](Files/file-system-calls.md)
+
+### Week 3: 
+
 * [Kernel and file system internals]()
     * [Block devices]()
     * [inodes, superblock, blocks]()
@@ -62,6 +72,11 @@
     * [Temporary files]()
     * [Implementation details](Files/notes.md)
 * [System Data Files]()
+
+
+### Week 4 & 5:  Memory and PRocesses
+
+
 * [Memory management]()
     * [Virtual memory]()
     * [Pageing and swap]()
@@ -82,6 +97,9 @@
     * [race conditions]()
 * [Process Relationships]()
 * [Control Groups]()
+
+### Week 6, 7, and 8
+
 * [Signals]()
 * [Threads and Thread Control]()
 * [Daemon Processes]()
@@ -98,9 +116,12 @@
     * [FIFOs]()
     * [Shared Memory]()
     * [Semaphores]()
-* [Network Programming and Sockets]()
 
+### Week 9 and 10  Network Programming
+
+* [Network Programming and Sockets]()
 * [Terminal IO]()
+
 * [Systems Programming Examples]()
     * [Simple Shell]()
     * [Simple HTTP Server]()
