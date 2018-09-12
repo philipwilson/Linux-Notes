@@ -27,7 +27,22 @@ vagrant@ubuntu:~/
 ```
 On my machine it's green :-)
 
-* Congratulations, you're now logged in to your Ubuntu virtual machine.  You are logged in as the `vagrant` user with `sudo` access, so you can do whatever you like.  Python3 and Git are already installed.  Knock yourself out!
+* Congratulations, you're now logged in to your Ubuntu virtual machine.
+   * You are logged in as the `vagrant` user with `sudo` access, so you can do whatever you like.
+   * You should have a subdirectory called `shared` in the vagrant home directory.  This is a mount of `~/ubuntu/shared` on your mac, so files you create in one place should magically appear in the other. 
+   * Python3 and Git are already installed.  Knock yourself out!
+
+* When you're done, you can type `exit` to close your session on the vm.  Back at the MacOS shell prompt, you can type:
+```bash
+$ vagrant halt
+```
+to stop the virtual machine from running in the background.  Whenever you like, you can restart the vm and log in like this:
+```bash
+$ cd ~/ubuntu
+$ vagrant up
+$ vagrant ssh
+```
+
 
 
 
